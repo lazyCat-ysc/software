@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00  
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteVCTemp] @="Delete VC Temp"  
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteVCTemp\command]   
+@="cmd.exe /c \"TITLE Removing VC Temp in %1 && COLOR 9A && FOR /r \"%1\" %%f IN (Debug) DO RD /s /q \"%%f\" && FOR /r \"%1\" %%f IN (Release) DO RD /s /q \"%%f\" \""
