@@ -1,3 +1,0 @@
-安装说明：执行xmlstudio2011.exe进行软件的安装，完成之后先不要运行软件，解压liquid2011patch.rar文件，复制里面的所有文件到程序安装目录X:\Program Files\Liquid Technologies\Liquid XML Studio 2011中，并覆盖原文件，运行Liquid XML Studio 2011，弹出注册对话框，选择Activate Product，下一步，输入以下License Key和Computer Description信息，选择Activate Manually，点击完成，弹出Manual Product Activation对话框，运行keygen.exe输入Name，点击Generate，将会自动产生激活码，将激活码复制到Manual Product Activation中完成激活即可。
-
-License Key: 46879400
